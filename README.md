@@ -45,7 +45,7 @@
 第一步:
 
 ```shell
-$ composer require thans/tp-jwt-auth
+$ composer require poofe/tp-jwt-auth
 ```
 
 
