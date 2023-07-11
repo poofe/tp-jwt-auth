@@ -122,6 +122,7 @@ https://github.com/tymondesigns/jwt-auth
 
 ## 感谢
 
+- thans/tp-jwt-auth
 - jwt-auth
 - php
 - lcobucci/jwt
